@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Local files
+*.log
+
+# Resume / private test files
+resume.pdf
