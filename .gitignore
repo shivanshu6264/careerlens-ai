@@ -19,3 +19,8 @@ venv/
 
 # Resume / private test files
 resume.pdf
+
+# Test coverage
+.coverage
+.pytest_cache/
+htmlcov/

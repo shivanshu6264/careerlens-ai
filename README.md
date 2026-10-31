@@ -151,3 +151,10 @@ Use the interactive Swagger documentation at `/docs` to inspect request schemas 
 ---
 
 *Built with Python, FastAPI, and Google Gemini.*
+
+## 🧪 Running Tests
+
+Install project dependencies:
+
+```bash
+python -m pip install -r requirements.txt
